@@ -1,0 +1,7 @@
+title: desk-research
+description: AIを使って行った様々な分析結果を管理するリポジトリ
+lang: ja
+theme: jekyll-theme-primer
+
+exclude:
+  - README.md
