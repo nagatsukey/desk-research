@@ -9,9 +9,11 @@ AIを使って行った様々な分析結果を公開しています。
 
 ## 分析一覧
 
-| 日付 | タイトル |
-| --- | --- |
-| 2026-08-18 | [GitHub Pages 表示テスト]({{ '/analyses/sample-analysis.html' | relative_url }}) |
+{% assign bar_apprentice_url = '/analyses/industry-research/food-service/bar-apprentice-below-minimum-wage/bar-apprentice-below-minimum-wage.html' | relative_url %}
+
+| 日付       | 分類                | タイトル                                                              |
+| ---------- | ------------------- | --------------------------------------------------------------------- |
+| 2026-08-22 | 業界調査 / 飲食業界 | [BARの従業員は最低賃金を下回りやすいのか？]({{ bar_apprentice_url }}) |
 
 ---
 
