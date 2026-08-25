@@ -44,4 +44,4 @@ e-StatのダウンロードURL形式：`https://www.e-stat.go.jp/stat-search/fil
 
 2026年8月23日、このフォルダには派生記事の `minimum-wage-actual-survey.md` と `underpayment-detection-limits.md` も置かれていたが、いずれも削除した。あわせて、この2記事が固有に使っていた資料（総務省の点検検証部会資料、厚生労働省のオーダーメード集計案内、全国値の算出CSVとその生成スクリプト）も assets から削除している。
 
-現在このフォルダは `bar-apprentice-below-minimum-wage.md` 1記事のみで、上表の7ファイルはすべてその記事が参照している。
+現在このフォルダは `bar-apprentice-below-minimum-wage.md` 1記事のみで、上表の8ファイルはすべてその記事が参照している。
